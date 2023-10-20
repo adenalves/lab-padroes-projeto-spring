@@ -4,4 +4,3 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
-# DEVELOPER
